@@ -31,3 +31,9 @@ In each lesson, you’ll be given an introduction to a single Markdown concept. 
 - Five
   - Red
   - Green
+
+ ### Numbered List
+
+ 1.  first line
+ 1.  second line
+ 1.  last line  
