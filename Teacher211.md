@@ -29,6 +29,7 @@ Hotfix(s):                 11 Hotfix(s) Installed.
                            [09]: KB5041655
                            [10]: KB5043076
                            [11]: KB5043937
+```
 C:\Windows\System32>cd \
 
 C:\>dir
@@ -56,3 +57,4 @@ C:\>dir
 12/09/2024  03:25 PM    <DIR>          Windows
                0 File(s)              0 bytes
               17 Dir(s)  316,419,543,040 bytes free
+```
