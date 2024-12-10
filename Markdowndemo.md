@@ -36,4 +36,6 @@ In each lesson, you’ll be given an introduction to a single Markdown concept. 
 
  1.  first line
  1.  second line
- 1.  last line  
+ 1.  last line
+ 2.  one more line
+ 3.  and another 
