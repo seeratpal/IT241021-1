@@ -21,6 +21,7 @@ System Model:              Precision T3610
 System Type:               x64-based PC
 
 Hotfix(s):                 11 Hotfix(s) Installed.
+
                            [01]: KB5042099
                            [02]: KB5012170
                            [03]: KB5026039
