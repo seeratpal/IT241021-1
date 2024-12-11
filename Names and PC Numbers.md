@@ -13,11 +13,9 @@ Ryan Mouzyane
 Parikshit Parikshit
 Parul Parul
 Pawandeep Singh Pawandeep Singh
-```
-Sarah Plamondon Brunet
-```
+Sarah Plamondon Brunet   
 Prajwal Prajwal
-```
+
 Abhishek Rana
 Sandeep Kaur Sandeep Kaur
 Jaspreet Singh
